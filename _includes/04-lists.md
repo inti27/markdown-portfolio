@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## My List
+* hello :neckbeard:
+* hi :shit:
+  * bye :hatching_chick:
+    * adios :turtle:
